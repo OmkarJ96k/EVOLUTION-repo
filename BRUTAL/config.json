@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "patchName": "BRUTAL Patch",
-  "fileName": "game_patch.pak",
+  "fileName": "BRUTAL_game_patch_4.6.0.21565.pak",
   "fileNameUpdate": "BRUTAL Updated Patch v1.0",
-  "downloadURL": "https://example.com/BRUTAL.pak",
+  "downloadURL": "https://raw.githubusercontent.com/OmkarJ96k/EVOLUTION-repo/main/BRUTAL.pak",
   "targetBundleID": "com.pubg.imobile",
-  "targetPath": "Documents/game_patch.pak"
+  "targetPath": "Documents/ShadowTrackerExtra/Saved/Paks/puffer_temp/"
 }
